@@ -1,2 +1,1 @@
-# odin-recipes 
-about to pratice what i have learnt on html and put it into practice in this repository
+This is a project to practice lesson thought on html and to express my understanding.
