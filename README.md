@@ -1,1 +1,1 @@
-This is a project to practice lesson thought on html and to express my understanding.
+This project is to express my understanding of html and how it works.
