@@ -1,0 +1,15 @@
+h1 {
+    color: brown;
+    background-color: black;
+    font-size: 36px;
+}
+
+ul {
+    background-color: darkkhaki;
+    color: blue;
+}
+
+ol {
+    color: violet;
+    background-color: beige;
+}
