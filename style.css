@@ -1,0 +1,10 @@
+h1 {
+    font-size: 36px;
+    font-family: "Times New Roman", sans-serif;
+    background-color: aqua;
+}
+
+li {
+    background-color: yellow;
+    font-size: 20px;
+}
